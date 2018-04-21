@@ -93,7 +93,7 @@ namespace driftparser
         {
 
 
-            var client = new TelegramClient(108302, "193cacdfceab8ffe66d17ecd315491a0");
+            var client = new TelegramClient(111, "as34232vxe34sdsd");
             //await client.ConnectAsync();
 
         }
